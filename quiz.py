@@ -1,3 +1,8 @@
+#display question
+#prompt user to put answer
+#compare the user inputed answer with the right answer
+#display correct if user enters the right answer otherwise display wrong, try again
+#do that for five questions.
 
 print("What is the sum of 20 and 10?")
 answer = input("Answer")
