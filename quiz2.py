@@ -1,3 +1,4 @@
+print("Welcome to this simple maths quiz, let's begin..")
 
 for x in range (20): 
 	print("What is the sum of 20 and 10?")
