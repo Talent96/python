@@ -125,6 +125,7 @@ for x in range (20):
 		print("Correct")
 	else: 
 		print("Wrong, Try again")
+	print("Thanks for participating")
 	break
  
 	
