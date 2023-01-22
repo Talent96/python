@@ -123,7 +123,8 @@ for x in range (20):
 	if answer == "9":
 		print("Correct")
 	else: 
-		print("Wrong, Try again") 
+		print("Wrong, Try again")
+	break
  
 	
 
