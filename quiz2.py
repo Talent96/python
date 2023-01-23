@@ -1,3 +1,9 @@
+#display question
+#prompt user to put answer
+#compare the user inputed answer with the right answer
+#display correct if user enters the right answer otherwise display wrong, try again
+#do that for five questions.
+
 print("Welcome to this simple maths quiz, let's begin..")
 
 user_choice = int(input("Enter 1 to start, 0 to exit "))
