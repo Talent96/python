@@ -5,7 +5,6 @@ while True:
 
     except ValueError:
         print("You didn't entered a number")
-
     except:
         print("An unknown error occurred")
 
