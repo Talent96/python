@@ -8,8 +8,7 @@ print("Welcome to this simple maths quiz, let's begin..")
 
 user_choice = int(input("Enter 1 to start, 0 to exit "))
 while user_choice == 1:
-
-	for x in range (20): 
+ 
 		print("What is the sum of 20 and 10?")
 		answer = input("Answer: ")
 		if answer == "30":
